@@ -50,5 +50,5 @@ for i in range(rows):
 
 index = 0
 for i in finalColorCount:
-    # print(color.Color(index).name + ": " + str(finalColorCount[index]))
+    print(color.Color(index).name + ": " + str(finalColorCount[index]))
     index += 1
